@@ -19,6 +19,7 @@ $ go get -u github.com/KyleBanks/1rm
 ```
 $ 1rm -reps R -weight W
 ```
+
 -**reps** *int*: The number of reps completed
 -**weight** *float*: The weight lifted, in any unit (kilos, pounds, stones, vibranium shields, etc.)
 
